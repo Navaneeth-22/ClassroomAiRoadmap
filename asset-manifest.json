@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/flowmind/static/css/main.e049067e.css",
-    "main.js": "/flowmind/static/js/main.8cca8b25.js",
-    "static/js/453.57241160.chunk.js": "/flowmind/static/js/453.57241160.chunk.js",
-    "index.html": "/flowmind/index.html",
-    "main.e049067e.css.map": "/flowmind/static/css/main.e049067e.css.map",
-    "main.8cca8b25.js.map": "/flowmind/static/js/main.8cca8b25.js.map",
-    "453.57241160.chunk.js.map": "/flowmind/static/js/453.57241160.chunk.js.map"
+    "main.css": "/ClassroomAiRoadmap/static/css/main.e049067e.css",
+    "main.js": "/ClassroomAiRoadmap/static/js/main.a9240568.js",
+    "static/js/453.57241160.chunk.js": "/ClassroomAiRoadmap/static/js/453.57241160.chunk.js",
+    "index.html": "/ClassroomAiRoadmap/index.html",
+    "main.e049067e.css.map": "/ClassroomAiRoadmap/static/css/main.e049067e.css.map",
+    "main.a9240568.js.map": "/ClassroomAiRoadmap/static/js/main.a9240568.js.map",
+    "453.57241160.chunk.js.map": "/ClassroomAiRoadmap/static/js/453.57241160.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e049067e.css",
-    "static/js/main.8cca8b25.js"
+    "static/js/main.a9240568.js"
   ]
 }
