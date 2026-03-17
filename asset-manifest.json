@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flowmind/static/css/main.e049067e.css",
+    "main.js": "/flowmind/static/js/main.8cca8b25.js",
+    "static/js/453.57241160.chunk.js": "/flowmind/static/js/453.57241160.chunk.js",
+    "index.html": "/flowmind/index.html",
+    "main.e049067e.css.map": "/flowmind/static/css/main.e049067e.css.map",
+    "main.8cca8b25.js.map": "/flowmind/static/js/main.8cca8b25.js.map",
+    "453.57241160.chunk.js.map": "/flowmind/static/js/453.57241160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e049067e.css",
+    "static/js/main.8cca8b25.js"
+  ]
+}
